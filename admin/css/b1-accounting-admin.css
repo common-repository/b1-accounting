@@ -1,0 +1,41 @@
+select.form-control {
+    height: 34px !important;
+    line-height: 34px !important;
+}
+
+.padding-top-10 {
+    padding-top: 10px;
+}
+.padding-left-10 {
+    padding-left: 10px;
+}
+
+.margin-bottom-15 {
+    margin-bottom: 15px;
+}
+.margin-left-15 {
+    margin-left: 15px;
+}
+.margin-right-15 {
+    margin-right: 15px;
+}
+
+.width-1 {
+    width: 1px !important;
+    white-space: nowrap;
+}
+
+.width-100 {
+    width: 100% !important;
+}
+
+.dataTable {
+    width: 100% !important;
+}
+
+.dataTables_filter {
+    display: none;
+}
+.B1-logs tr {
+    cursor: pointer;
+}

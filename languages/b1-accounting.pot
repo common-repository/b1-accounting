@@ -1,0 +1,271 @@
+# Copyright (C) 2018 B1.lt
+# This file is distributed under the GPL2.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: B1.lt for WooCommerce 2.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/b1-accounting\n"
+"POT-Creation-Date: 2018-10-22 14:41+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-b1-accounting-admin.php:36
+#: includes/class-b1-accounting-manager.php:308
+msgid "Internal error."
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:37
+msgid "Processing..."
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:38
+msgid "Show _MENU_ items"
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:39
+msgid "Nothing found"
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:40
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:41
+msgid "No data available in table"
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:42
+msgid "First"
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:43
+msgid "Previous"
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:44
+msgid "Next"
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:45
+msgid "Last"
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:67
+#: admin/partials/b1-accounting-admin-dashboard.php:44
+msgid "Settings"
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:88
+msgid "Shop ID cannot be empty."
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:91
+msgid "Bad sync orders from date format. Should be \"yyyy-mm-dd\"."
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:94
+msgid "Tax rate cannot be empty."
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:97
+msgid "Access key cannot be empty."
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:99
+msgid "Access key length cannot be less than 16."
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:105
+#: admin/class-b1-accounting-admin.php:132
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:107
+#: admin/class-b1-accounting-admin.php:134
+#: admin/class-b1-accounting-admin.php:147
+msgid "Invalid secret key specified."
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:123
+#: admin/class-b1-accounting-admin.php:126
+msgid "Attribute id cannot be empty."
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:145
+msgid "Orders reseted successfully!"
+msgstr ""
+
+#: admin/class-b1-accounting-admin.php:188
+#: admin/class-b1-accounting-admin.php:190
+msgid "Forbidden"
+msgstr ""
+
+#: admin/partials/b1-accounting-admin-dashboard.php:16
+msgid "B1.lt accounting"
+msgstr ""
+
+#: admin/partials/b1-accounting-admin-dashboard.php:17
+#: admin/partials/b1-accounting-admin-dashboard.php:19
+msgid "Contacts"
+msgstr ""
+
+#: admin/partials/b1-accounting-admin-dashboard.php:21
+#: admin/partials/b1-accounting-admin-dashboard.php:23
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/b1-accounting-admin-dashboard.php:25
+#: admin/partials/b1-accounting-admin-dashboard.php:27
+msgid "Help"
+msgstr ""
+
+#: admin/partials/b1-accounting-admin-dashboard.php:31
+msgid "Version - "
+msgstr ""
+
+#: admin/partials/tabs/settings.php:30
+msgid "Configuration"
+msgstr ""
+
+#: admin/partials/tabs/logs.php:27
+msgid "Logs"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:39
+msgid "E-shop ID"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:42
+msgid ""
+"Random and unique shop identifier. This will be passed when syncing "
+"orders. "
+msgstr ""
+
+#: admin/partials/tabs/settings.php:46
+msgid "Sync orders from"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:48
+msgid "Set Order sync date"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:52
+msgid "Sync B1.lt quantities with e-shop"
+msgstr ""
+
+msgid "Ignore errors and sync remaining orders"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:55 admin/partials/tabs/settings.php:68
+msgid "Yes"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:58 admin/partials/tabs/settings.php:71
+msgid "No"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:61
+msgid "Whenever to enable quantity sync with B1."
+msgstr ""
+
+#: admin/partials/tabs/settings.php:65
+msgid "Try to write-off"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:74
+msgid "Whenever to enable write-off with B1."
+msgstr ""
+
+#: admin/partials/tabs/settings.php:78
+msgid "VAT tax rate"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:80
+msgid "Set vat rate"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:84
+msgid "API key"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:86
+msgid "API key associated with the company."
+msgstr ""
+
+#: admin/partials/tabs/settings.php:90
+msgid "Private key"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:92
+msgid "Private key associated with the company."
+msgstr ""
+
+#: admin/partials/tabs/settings.php:96
+msgid "Access key"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:98
+msgid "Access key is generated randomly."
+msgstr ""
+
+#: admin/partials/tabs/settings.php:103 admin/partials/tabs/settings.php:162
+msgid "Update"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:111
+msgid " Reset orders"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:119
+msgid "Commands"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:128 admin/partials/tabs/settings.php:165
+msgid "Run"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:141 admin/partials/tabs/settings.php:146
+msgid "Import products to B1.lt (BETA) "
+msgstr ""
+
+#: admin/partials/tabs/settings.php:151
+msgid "Attribute"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:156
+msgid "Measurment"
+msgstr ""
+
+#: admin/partials/tabs/settings.php:169
+msgid "Only products that have SKU will be imported to B1 system."
+msgstr ""
+
+#: b1-accounting.php:40
+msgid ""
+"The B1.lt For WooCommerce plugin requires the <a href=\"http://wordpress."
+"org/extend/plugins/woocommerce/\">WooCommerce</a> plugin to be active!"
+msgstr ""
+
+#: b1-accounting.php:44
+msgid "The B1.lt For WooCommerce plugin requires min PHP version 7.0!"
+msgstr ""
+
+#: includes/class-b1-accounting.php:92
+msgid "Once per 10 minutes"
+msgstr ""
+
+#: includes/class-b1-accounting.php:96
+msgid "Once in 2 days"
+msgstr ""
+
+#: includes/class-b1-accounting.php:100
+msgid "Once weekly"
+msgstr ""
